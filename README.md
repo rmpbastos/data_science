@@ -19,7 +19,7 @@ This background combined with a craving for developing new skills naturally led 
 
 
 ## Projetcs:
-
+* **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver**
 
 ---
 
