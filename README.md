@@ -19,8 +19,8 @@ This background combined with a craving for developing new skills naturally led 
 
 
 ## Projetcs:
-* **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver**
-
+* **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver:** https://bit.ly/2YlGiDc
+* **Analysing Vancouver Airbnb Data:** https://bit.ly/2AV4ILB
 ---
 
 
