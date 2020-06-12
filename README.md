@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-rrbastos-orange)](https://www.linkedin.com/in/rrbastos/) 
 
 <p align="center">
-  <img src="github_cover.png" >
+  <img src="img/github_cover.png" >
 </p>
 
 # Rafael Bastos
