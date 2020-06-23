@@ -22,6 +22,7 @@ This background combined with a craving for developing new skills naturally led 
 * **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver:** https://bit.ly/2YlGiDc
 * **Analyzing Vancouver Airbnb Data:** https://bit.ly/2AV4ILB
 * **Analizing Violence in Rio de Janeiro:** https://bit.ly/3egghMc
+* **A case study of Brazil's COVID-19 situation :** https://bit.ly/37YBhVA
 ---
 
 
