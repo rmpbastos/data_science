@@ -11,7 +11,6 @@ Since I graduated I had a couple of jobs in financial institutions, having worke
 
 This background combined with a craving for developing new skills naturally led me to dive deep into programming and into the field of Data Science.
 
-**Background in** Python, Machine Learning, Statistics, Econometrics
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rrbastos/)
