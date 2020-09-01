@@ -24,6 +24,7 @@ This background combined with a craving for developing new skills naturally led 
 * **A case study of Brazil's COVID-19 situation:** https://bit.ly/37YBhVA
 * **Detecting fraudulent credit card operations with machine learning algorithms:** https://bit.ly/2VCrU8W
 * **Web Scraping with Python using BeautifulSoup:** https://bit.ly/2OvecR7
+* **Churn Prediction with Machine Learning:** https://bit.ly/2DpWw7S
 ---
 
 
