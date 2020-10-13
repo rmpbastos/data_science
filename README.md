@@ -25,6 +25,7 @@ This background combined with a craving for developing new skills naturally led 
 * **Detecting fraudulent credit card operations with machine learning algorithms:** https://bit.ly/2VCrU8W
 * **Web Scraping with Python using BeautifulSoup:** https://bit.ly/2OvecR7
 * **Churn Prediction with Machine Learning:** https://bit.ly/2DpWw7S
+* **Credit Risk Analysis with Machine Learning:** https://bit.ly/3nNnuZh
 ---
 
 
