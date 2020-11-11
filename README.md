@@ -26,6 +26,7 @@ This background combined with a craving for developing new skills naturally led 
 * **Web Scraping with Python using BeautifulSoup:** https://bit.ly/2OvecR7
 * **Churn Prediction with Machine Learning:** https://bit.ly/2DpWw7S
 * **Credit Risk Analysis with Machine Learning:** https://bit.ly/3nNnuZh
+* **How to get started on Kaggle Competitions:** https://bit.ly/32vOaF1
 ---
 
 
