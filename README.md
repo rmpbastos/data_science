@@ -20,7 +20,7 @@ This background combined with a craving for developing new skills naturally led 
 ## Projetcs:
 * **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver:** https://bit.ly/2YlGiDc
 * **Analyzing Vancouver Airbnb Data:** https://bit.ly/3ew31TY
-* **Analizing Violence in Rio de Janeiro:** https://bit.ly/3egghMc
+* **Analyzing Violence in Rio de Janeiro:** https://bit.ly/3egghMc
 * **A case study of Brazil's COVID-19 situation:** https://bit.ly/37YBhVA
 * **Detecting fraudulent credit card operations with machine learning algorithms:** https://bit.ly/2VCrU8W
 * **Web Scraping with Python using BeautifulSoup:** https://bit.ly/2OvecR7
