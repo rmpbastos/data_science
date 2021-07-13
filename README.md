@@ -27,6 +27,7 @@ This background combined with a craving for developing new skills naturally led 
 * **Churn Prediction with Machine Learning:** https://bit.ly/2DpWw7S
 * **Credit Risk Analysis with Machine Learning:** https://bit.ly/3nNnuZh
 * **How to get started on Kaggle Competitions - Housing Prices Competition:** https://bit.ly/32vOaF1
+* **Statistics #01 - Mean, Median, and Mode:** https://bit.ly/3wvJafG
 ---
 
 
