@@ -15,6 +15,7 @@ This background combined with a craving for developing new skills naturally led 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rrbastos/)
 * [Medium](rafa-bastos.medium.com)
+* 
 
 
 ## Projects:
