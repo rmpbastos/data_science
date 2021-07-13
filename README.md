@@ -17,7 +17,7 @@ This background combined with a craving for developing new skills naturally led 
 * [Medium](https://medium.com/@rafa.bastos)
 
 
-## Projetcs:
+## Projects:
 * **IBM Data Science Certificate Capstone - The Battle of Neighborhoods Vancouver:** https://bit.ly/2YlGiDc
 * **Analyzing Vancouver Airbnb Data:** https://bit.ly/3ew31TY
 * **Analyzing Violence in Rio de Janeiro:** https://bit.ly/3egghMc
