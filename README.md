@@ -29,6 +29,7 @@ This background combined with a craving for developing new skills naturally led 
 * **How to get started on Kaggle Competitions - Housing Prices Competition:** https://bit.ly/32vOaF1
 * **Statistics #01 - Mean, Median, and Mode:** https://bit.ly/3wvJafG
 * **Statistics #02 - Measuring and Visualizing the Spread of Data:** https://bit.ly/3eyZ6HI
+* **Statistics #03 - Standard Deviation and Variance:** https://bit.ly/3BPymwS
 ---
 
 
