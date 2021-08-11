@@ -30,6 +30,7 @@ This background combined with a craving for developing new skills naturally led 
 * **Statistics #01 - Mean, Median, and Mode:** https://bit.ly/3wvJafG
 * **Statistics #02 - Measuring and Visualizing the Spread of Data:** https://bit.ly/3eyZ6HI
 * **Statistics #03 - Standard Deviation and Variance:** https://bit.ly/3BPymwS
+* **Statistics #04 - Introduction to Probability:** https://bit.ly/2UakfkM
 ---
 
 
